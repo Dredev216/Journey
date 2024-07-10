@@ -4,3 +4,4 @@
 *.v2
 .vs/Journey/v17/.suo
 *.dll
+*.vsidx
